@@ -1,16 +1,15 @@
-## Hi there 👋
+## Merhaba, ben Yağız Talip BABAL, 👋
 
-<!--
-**thisisytb/thisisytb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pamukkale Üniversitesi Mekatronik Mühendisliği mezunuyum.
+Şu sıralar Flutter ve Dart öğreniyor, öğrendiklerimi küçük projeler geliştirerek pekiştiriyorum.
+Mobil uygulama geliştirme alanında kendimi ilerletmeyi hedefliyorum.
 
-Here are some ideas to get you started:
+## İlgi Alanlarım
+- Kod yazmadığım zamanlarda oyun oynamayı ve müzik dinlemeyi severim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Şu an öğrendiklerim
+- Flutter
+- Dart
+
+## GitHub'da
+Öğrenme sürecimde geliştirdiğim projeleri ve pratik çalışmalarımı paylaşıyorum.
